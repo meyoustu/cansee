@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 #counter {
-    background-image: url(../img/parallax/city.jpg);
+    background-image: url(/img/parallax/city.jpg);
     padding: 70px 0;
 }
 
@@ -624,7 +624,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #team-skills {
     padding: 70px 0;
-    background-image: url(../img/parallax/skills.jpg);
+    background-image: url(/img/parallax/skills.jpg);
 }
 
 .skill-chart > h3 {
@@ -790,7 +790,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 #twitter-feed {
-    background-image: url("../img/parallax/twitter.jpg");
+    background-image: url("/img/parallax/twitter.jpg");
     padding-bottom: 100px;
     padding-top: 80px;
 }
