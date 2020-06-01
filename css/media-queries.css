@@ -4,22 +4,22 @@
 
 @media (min-width: 980px) and (max-width: 1150px) {
 
-	/* parallax section */
+    /* parallax section */
     .parallax-section {
         background-position: center top !important;
     }
-	
-	/* home slider */
+
+    /* home slider */
     #slitSlider .carousel-caption h2 {
         font-size: 60px;
     }
-	
-	/* about us */
+
+    /* about us */
     .feature-desc h3 {
         margin-top: 0;
     }
-	
-	/* our team */
+
+    /* our team */
     .team-mate {
         margin-bottom: 30px;
     }
@@ -43,17 +43,18 @@
     .member-info ul li {
         margin-right: 10px;
     }
-	/* testimonial */
+
+    /* testimonial */
     .client-info {
         width: 55%;
     }
-	
-	/* blog page */
-	.tab-post-nav li a {
-		padding: 15px 8px;
-	}
-	
-	/* single blog page */
+
+    /* blog page */
+    .tab-post-nav li a {
+        padding: 15px 8px;
+    }
+
+    /* single blog page */
     .author-bio h5 {
         margin-left: 70px;
     }
@@ -65,12 +66,12 @@
 
 @media (min-width: 768px) and (max-width: 979px) {
 
-	/* parallax section */
+    /* parallax section */
     .parallax-section {
         background-position: center top !important;
     }
 
-	/* home page slider */
+    /* home page slider */
     #slitSlider .carousel-caption h2 {
         font-size: 50px;
     }
@@ -82,13 +83,13 @@
     #nav-arrows {
         display: none;
     }
-	
-	/* navigation */
+
+    /* navigation */
     .navbar-inverse .navbar-nav li a {
         padding: 20px 10px;
     }
 
-	/* about us */
+    /* about us */
     .wrap-about {
         margin: 0 0 75px;
     }
@@ -98,7 +99,7 @@
         width: 60%;
     }
 
-	/* fun facts */
+    /* fun facts */
     #counter {
         padding-bottom: 50px;
     }
@@ -107,19 +108,19 @@
         margin-bottom: 30px;
     }
 
-	/* our services */
+    /* our services */
     .service-block {
         margin: 0 auto 40px;
         width: 310px;
     }
 
-	/* our team */
+    /* our team */
     .team-mate {
         margin: 0 auto 30px;
         width: 280px;
     }
 
-	/* our skills */
+    /* our skills */
     .skill-chart {
         margin: 0 auto 40px;
         width: 300px;
@@ -134,28 +135,28 @@
         margin: 15px 0;
     }
 
-	/* pricing table */
+    /* pricing table */
     .pricing {
         margin: 0 auto 30px;
         width: 300px;
     }
 
-	/* testimonial */
+    /* testimonial */
     .client-info {
         width: 75%;
     }
 
-	/* latest posts */
+    /* latest posts */
     .note {
         margin-bottom: 30px;
     }
 
-	/* blog page */
+    /* blog page */
     .tab-post-nav li a {
         padding: 10px;
     }
 
-	/* singla blog page */
+    /* singla blog page */
     .author-social {
         margin-left: 0;
     }
@@ -168,12 +169,12 @@
 
 @media only screen and (max-width: 767px) {
 
-	/* parallax section */
+    /* parallax section */
     .parallax-section {
         background-position: center top !important;
     }
 
-	/* h1 font size home slider */
+    /* h1 font size home slider */
     h1 {
         font-size: 30px;
     }
@@ -208,13 +209,13 @@
         display: none;
     }
 
-	/* navigation */
+    /* navigation */
     .navbar-fixed-top {
         padding-bottom: 10px;
     }
 
     .navbar-inverse .navbar-toggle,
-	.navbar-inverse .navbar-toggle .icon-bar {
+    .navbar-inverse .navbar-toggle .icon-bar {
         border-color: #4e595f;
         border-radius: 0;
     }
@@ -260,13 +261,13 @@
         margin: 5px 5px 5px 0;
     }
 
-	/* fun facts */
+    /* fun facts */
     .counters-item {
         margin: 0 auto 25px;
         width: 270px;
     }
 
-	/* services */
+    /* services */
     #services .title {
         padding-bottom: 60px;
     }
@@ -278,13 +279,13 @@
         left: -8px;
     }
 
-	/* our skills */
+    /* our skills */
     .skill-chart {
         margin: 0 auto 40px;
         width: 280px;
     }
 
-	/* our team */
+    /* our team */
     .team-mate {
         margin: 0 auto 31px;
         width: 280px;
@@ -299,19 +300,19 @@
         margin-bottom: 10px;
     }
 
-	/* pricing table */
+    /* pricing table */
     .pricing {
         margin: 0 auto 20px;
         width: 280px;
     }
 
-	/* portfolio */
+    /* portfolio */
     .portfolio-filter ul li a {
         margin: 0 10px 10px 0;
         padding: 5px 10px;
     }
 
-	/* testimonials */
+    /* testimonials */
     .sub-title h3 {
         font-size: 18px;
     }
@@ -320,11 +321,11 @@
         width: 100%;
     }
 
-	/* latest posts */
+    /* latest posts */
     #blog {
         padding-bottom: 0;
     }
-	
+
     .note {
         margin-bottom: 30px;
     }
@@ -337,7 +338,7 @@
         margin: 20px 0 30px;
     }
 
-	/* contact */
+    /* contact */
     .contact-info {
         margin: 0 0 30px;
     }
@@ -346,7 +347,7 @@
         height: 250px;
     }
 
-	/* footer */
+    /* footer */
     .social-icon ul li, .social-icon ul li:first-child {
         margin: 15px;
     }
@@ -365,7 +366,7 @@
         font-size: 28px;
     }
 
-	/* blog page */
+    /* blog page */
     #blog-page {
         margin: 0;
     }
@@ -377,16 +378,16 @@
     .post-excerpt h3 {
         font-size: 20px;
     }
-	
-	.post-pagination ul li {
-		margin: 0 10px 10px 0;
-	}
-	
+
+    .post-pagination ul li {
+        margin: 0 10px 10px 0;
+    }
+
     .tab-post-nav li a {
         padding: 8px 5px;
     }
 
-	/* single blog page */
+    /* single blog page */
     .author-social {
         margin-left: 0;
     }
@@ -397,14 +398,13 @@
 }
 
 
-
 /*============================================================
 	Mobile (Landscape) Design for a width of 480px
 ==============================================================*/
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
-	/* homepage slider */
+    /* homepage slider */
     #slitSlider .carousel-caption h2 {
         font-size: 30px;
     }
@@ -421,7 +421,7 @@
         width: 50%;
     }
 
-	/* navigation */
+    /* navigation */
     .navbar-fixed-top {
         padding-bottom: 10px;
     }
@@ -431,7 +431,7 @@
     }
 
     .navbar-inverse .navbar-toggle {
-        border-color: #6CB670;
+        border-color: #3CC67B;
         border-radius: 0;
     }
 
@@ -455,19 +455,19 @@
         border-bottom: 2px solid transparent;
     }
 
-	/* about us */
+    /* about us */
     .wrap-about {
         margin: 0 auto 75px;
         width: 70%;
     }
 
-	/* services */
+    /* services */
     .service-block {
         margin: 0 auto 40px;
         width: 310px;
     }
 
-	/* our team */
+    /* our team */
     .team-mate {
         margin: 0 auto 30px;
         width: 280px;
@@ -477,44 +477,44 @@
         margin: 0 auto;
     }
 
-	/* portfolio */
+    /* portfolio */
     .og-grid li {
         width: 245px;
     }
 
-	/* skills */
+    /* skills */
     .skill-chart {
         margin: 0 auto 40px;
         width: 300px;
     }
 
-	/* pricing table */
+    /* pricing table */
     .pricing {
         margin: 0 auto 30px;
         width: 350px;
     }
 
-	/* testimonials */
+    /* testimonials */
     .client-info {
         width: 74%;
     }
 
-	/* latest posts */
+    /* latest posts */
     #blog {
         padding-bottom: 0;
     }
-	
+
     .note {
         margin: 0 auto 30px;
         width: 75%;
     }
 
-	/* contact */
+    /* contact */
     .contact-info {
         width: 100%;
     }
 
-	/* blog page */
+    /* blog page */
     .tab-post-nav li a {
         padding: 10px 15px;
     }
